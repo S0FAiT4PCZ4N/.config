@@ -1,0 +1,41 @@
+LSP Notebooks experiment is disabled -- not using Pylance
+> conda info --json
+> /bin/python ~/.vscode-oss/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+> /sbin/python ~/.vscode-oss/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.vscode-oss/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python
+[ERROR 2022-6-25 0:7:27.152]: [
+  'Failed to activate a workspace, Class name = f, completed in 308ms, has a falsy return value, Arg 1: undefined, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:67541)
+  	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:33857)
+  	at E.activate (/home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:727613)
+  	at /home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:2212
+  	at Array.map (<anonymous>)
+  	at f.activateWorkspace (/home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:2202)
+  	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+]
+[ERROR 2022-6-25 0:7:27.158]: Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:67541)
+	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:33857)
+	at E.activate (/home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:727613)
+	at /home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:2212
+	at Array.map (<anonymous>)
+	at f.activateWorkspace (/home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:2202)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+[ERROR 2022-6-25 0:7:27.158]: sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:67541)
+	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:33857)
+	at E.activate (/home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:727613)
+	at /home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:2212
+	at Array.map (<anonymous>)
+	at f.activateWorkspace (/home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1/out/client/extension.js:2:2202)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+Starting Jedi language server for default.

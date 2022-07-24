@@ -1,0 +1,29 @@
+[2022-07-25 00:10:45.766] [exthost] [info] Extension host with pid 3256 started
+[2022-07-25 00:10:45.766] [exthost] [info] Skipping acquiring lock for /home/s0fa/.config/Code - OSS/User/workspaceStorage/b14f2d36e16d9688e5c2d580ea2dc3f4.
+[2022-07-25 00:10:45.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-25 00:10:45.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-25 00:10:45.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-25 00:10:45.976] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-07-25 00:10:46.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-25 00:10:46.469] [exthost] [info] ExtensionService#_doActivateExtension redhat.java, startup: true, activationEvent: 'workspaceContains:{*/,}pom.xml,{*/,}build.gradle,{*/,}settings.gradle,{*/,}build.gradle.kts,{*/,}settings.gradle.kts,{*/,}.classpath'
+[2022-07-25 00:10:46.764] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2022-07-25 00:10:50.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-07-25 00:10:50.157] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 00:10:50.181] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 00:10:50.288] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'workspaceContains:pubspec.yaml'
+[2022-07-25 00:10:51.021] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+[2022-07-25 00:10:51.326] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2022-07-25 00:10:55.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 00:10:55.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 00:10:55.874] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 00:10:55.923] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 00:10:56.015] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 00:13:57.791] [exthost] [info] Eager extensions activated
+[2022-07-25 00:15:38.461] [exthost] [error] Error: android does not exist
+	at /home/s0fa/.vscode-oss/extensions/redhat.java-1.9.0/dist/extension.js:2:1034071
+	at /home/s0fa/.vscode-oss/extensions/redhat.java-1.9.0/dist/extension.js:2:1034365
+	at Immediate.<anonymous> (/home/s0fa/.vscode-oss/extensions/redhat.java-1.9.0/dist/extension.js:2:1034730)
+	at processImmediate (node:internal/timers:464:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+[2022-07-25 00:38:15.501] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-25 00:38:15.555] [exthost] [warning] {"name":"Canceled"}
+[2022-07-25 00:38:15.567] [exthost] [info] Extension host with pid 3256 exiting with code 0

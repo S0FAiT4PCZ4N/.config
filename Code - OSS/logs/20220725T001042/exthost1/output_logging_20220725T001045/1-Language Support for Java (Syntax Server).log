@@ -1,0 +1,11 @@
+WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+[Error - 12:13:58 AM] Jul 25, 2022, 12:13:58 AM Workspace was not properly initialized or has already shutdown.
+Workspace was not properly initialized or has already shutdown.
+java.lang.Exception: Workspace was not properly initialized or has already shutdown.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Workspace.getWorkManager(Workspace.java:1817)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1481)
+	at org.eclipse.core.internal.events.AutoBuildJob$AutoBuildOffJob.run(AutoBuildJob.java:333)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+

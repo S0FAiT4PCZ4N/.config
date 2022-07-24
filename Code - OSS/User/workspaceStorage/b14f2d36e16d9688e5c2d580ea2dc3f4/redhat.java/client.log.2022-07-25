@@ -1,0 +1,28 @@
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-18-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:/home/s0fa/.vscode-oss/extensions/redhat.java-1.9.0/lombok/lombok-1.18.24.jar -jar /home/s0fa/.vscode-oss/extensions/redhat.java-1.9.0/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/s0fa/.config/Code - OSS/User/globalStorage/redhat.java/1.9.0/config_ss_linux -data /home/s0fa/.config/Code - OSS/User/workspaceStorage/b14f2d36e16d9688e5c2d580ea2dc3f4/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2022-07-25 00:10:46.792'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign\n',
+  level: 'info',
+  timestamp: '2022-07-25 00:10:48.999'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/java-18-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:/home/s0fa/.vscode-oss/extensions/redhat.java-1.9.0/lombok/lombok-1.18.24.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/s0fa/.config/Code - OSS/User/workspaceStorage/b14f2d36e16d9688e5c2d580ea2dc3f4/redhat.java -jar /home/s0fa/.vscode-oss/extensions/redhat.java-1.9.0/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/s0fa/.config/Code - OSS/User/globalStorage/redhat.java/1.9.0/config_linux -data /home/s0fa/.config/Code - OSS/User/workspaceStorage/b14f2d36e16d9688e5c2d580ea2dc3f4/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2022-07-25 00:10:51.362'
+}
+{
+  message: '[Error - 12:13:58 AM] Jul 25, 2022, 12:13:58 AM Workspace was not properly initialized or has already shutdown.\n' +
+    'Workspace was not properly initialized or has already shutdown.\n' +
+    'java.lang.Exception: Workspace was not properly initialized or has already shutdown.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.getWorkManager(Workspace.java:1817)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1481)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob$AutoBuildOffJob.run(AutoBuildJob.java:333)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2022-07-25 00:13:58.303'
+}

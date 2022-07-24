@@ -1,0 +1,33 @@
+[2022-07-25 00:07:25.448] [renderer1] [critical] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookControllerKind, notebookWorkspaceEdit, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-07-25 00:07:25.449] [renderer1] [critical] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-07-25 00:07:25.487] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:07:26.853] [renderer1] [error] [Extension Host] extension activation failed Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:67541)
+	at u.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:52625)
+	at new m (/home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:24:41100)
+	at Object.t.resolveInstance (/home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1374020)
+	at /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1375958
+	at /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1374876
+	at Array.map (<anonymous>)
+	at /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1374848
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1373794)
+	at /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1375958
+	at Object.t.resolve (/home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1376221)
+	at /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1359634
+	at e._get (/home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1359400)
+	at e.get (/home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:1358043)
+	at a.get (/home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:31195)
+	at /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528/out/extension.node.js:39:2896208
+[2022-07-25 00:07:36.194] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:07:37.467] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:07:45.196] [renderer1] [warning] [redhat.vscode-xml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-07-25 00:07:45.235] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:07:47.470] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:07:50.942] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:08:35.290] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:08:38.272] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:08:53.108] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-07-25 00:09:14.971] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter

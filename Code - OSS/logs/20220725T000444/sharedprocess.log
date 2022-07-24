@@ -1,0 +1,143 @@
+[2022-07-25 00:04:49.286] [sharedprocess] [info] Starting worker process with pid 2090 (type: fileWatcher, window: 1).
+[2022-07-25 00:07:13.317] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-07-25 00:07:13.411] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-07-25 00:07:13.929] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-07-25 00:07:14.645] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-07-25 00:07:15.098] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-07-25 00:07:16.072] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-07-25 00:07:16.072] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-07-25 00:07:16.072] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-07-25 00:07:17.278] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-07-25 00:07:17.318] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.7a271122-e90d-4a91-883d-241d2eadf696: ms-toolsai.jupyter-keymap
+[2022-07-25 00:07:17.416] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-07-25 00:07:17.417] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-07-25 00:07:17.557] [sharedprocess] [info] Getting Manifest... redhat.vscode-yaml
+[2022-07-25 00:07:17.644] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2022-07-25 00:07:18.985] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/redhat.vscode-yaml-1.9.1
+[2022-07-25 00:07:19.007] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.8
+[2022-07-25 00:07:19.106] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.019d1dbb-0b5b-4fe6-bf71-e86300c01ac4: redhat.vscode-yaml
+[2022-07-25 00:07:19.175] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/redhat.vscode-yaml-1.9.1
+[2022-07-25 00:07:19.177] [sharedprocess] [info] Extracting completed. redhat.vscode-yaml
+[2022-07-25 00:07:19.179] [sharedprocess] [info] Extension installed successfully: redhat.vscode-yaml
+[2022-07-25 00:07:19.254] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.4f34fc48-9f25-46b5-8017-3567327bf03d: ms-toolsai.jupyter-renderers
+[2022-07-25 00:07:19.321] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.8
+[2022-07-25 00:07:19.322] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-07-25 00:07:19.655] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-07-25 00:07:19.719] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-07-25 00:07:20.001] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.7.1001890528
+[2022-07-25 00:07:20.481] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.2b44a971-713d-417c-8535-c65797d2ad89: ms-toolsai.jupyter
+[2022-07-25 00:07:20.585] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528
+[2022-07-25 00:07:20.597] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-07-25 00:07:22.131] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-07-25 00:07:22.467] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.e43fccfc-9dae-498e-b96a-40971f03ac91: esbenp.prettier-vscode
+[2022-07-25 00:07:22.534] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0
+[2022-07-25 00:07:22.537] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-07-25 00:07:22.538] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-07-25 00:07:23.572] [sharedprocess] [info] Downloaded extension: ms-python.python /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.10.1
+[2022-07-25 00:07:25.205] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.e4945ba1-5114-4f89-a381-63a26cddf200: ms-python.python
+[2022-07-25 00:07:25.355] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/ms-python.python-2022.10.1
+[2022-07-25 00:07:25.366] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-07-25 00:07:25.373] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-07-25 00:07:25.374] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-07-25 00:07:25.375] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-07-25 00:07:25.375] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-07-25 00:07:32.303] [sharedprocess] [info] Getting Manifest... redhat.java
+[2022-07-25 00:07:32.368] [sharedprocess] [info] Installing extension: redhat.java
+[2022-07-25 00:07:32.463] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-07-25 00:07:32.548] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-07-25 00:07:35.519] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/eamodio.gitlens-12.1.2
+[2022-07-25 00:07:35.867] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.a8121a87-317e-4ee0-97dd-e482c3cf68c0: eamodio.gitlens
+[2022-07-25 00:07:35.892] [sharedprocess] [info] Getting Manifest... golang.go
+[2022-07-25 00:07:35.960] [sharedprocess] [info] Installing extension: golang.go
+[2022-07-25 00:07:35.980] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/eamodio.gitlens-12.1.2
+[2022-07-25 00:07:36.040] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-07-25 00:07:36.046] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-07-25 00:07:37.023] [sharedprocess] [info] Downloaded extension: golang.go /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/golang.go-0.35.1
+[2022-07-25 00:07:37.070] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.e5106299-839a-4e47-a006-e7d0725d7e52: golang.go
+[2022-07-25 00:07:37.181] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/golang.go-0.35.1
+[2022-07-25 00:07:37.186] [sharedprocess] [info] Extracting completed. golang.go
+[2022-07-25 00:07:37.190] [sharedprocess] [info] Extension installed successfully: golang.go
+[2022-07-25 00:07:39.221] [sharedprocess] [info] Getting Manifest... redhat.vscode-xml
+[2022-07-25 00:07:39.287] [sharedprocess] [info] Installing extension: redhat.vscode-xml
+[2022-07-25 00:07:44.618] [sharedprocess] [info] Downloaded extension: redhat.vscode-xml /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/redhat.vscode-xml-0.21.0
+[2022-07-25 00:07:44.922] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.b186fad1-849a-40dc-95c9-f5890275b8f6: redhat.vscode-xml
+[2022-07-25 00:07:45.075] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/redhat.vscode-xml-0.21.0
+[2022-07-25 00:07:45.078] [sharedprocess] [info] Extracting completed. redhat.vscode-xml
+[2022-07-25 00:07:45.082] [sharedprocess] [info] Extension installed successfully: redhat.vscode-xml
+[2022-07-25 00:07:45.546] [sharedprocess] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-07-25 00:07:45.613] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-07-25 00:07:47.105] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.22.1
+[2022-07-25 00:07:47.211] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.a5263e8b-ea18-462e-9d53-b5293b29a9fc: ms-azuretools.vscode-docker
+[2022-07-25 00:07:47.309] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.22.1
+[2022-07-25 00:07:47.316] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-07-25 00:07:47.318] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-07-25 00:07:50.183] [sharedprocess] [info] Downloaded extension: redhat.java /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/redhat.java-1.9.0
+[2022-07-25 00:07:50.697] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.202eff2f-f20f-426c-80d9-f779ac94f328: redhat.java
+[2022-07-25 00:07:50.781] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/redhat.java-1.9.0
+[2022-07-25 00:07:50.790] [sharedprocess] [info] Extracting completed. redhat.java
+[2022-07-25 00:07:50.794] [sharedprocess] [info] Extension installed successfully: redhat.java
+[2022-07-25 00:08:01.154] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-07-25 00:08:01.247] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-07-25 00:08:03.703] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.19.0
+[2022-07-25 00:08:04.276] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.0e2a6500-938c-4ea4-8782-2109e2071a05: pkief.material-icon-theme
+[2022-07-25 00:08:04.501] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/pkief.material-icon-theme-4.19.0
+[2022-07-25 00:08:04.504] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-07-25 00:08:04.505] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-07-25 00:08:16.840] [sharedprocess] [info] Getting Manifest... octref.vetur
+[2022-07-25 00:08:16.928] [sharedprocess] [info] Installing extension: octref.vetur
+[2022-07-25 00:08:20.386] [sharedprocess] [info] Getting Manifest... formulahendry.auto-close-tag
+[2022-07-25 00:08:20.451] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2022-07-25 00:08:22.281] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.auto-close-tag-0.5.14
+[2022-07-25 00:08:22.335] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.4a0e86b0-947c-4a52-a65f-e0cea4c39fe3: formulahendry.auto-close-tag
+[2022-07-25 00:08:22.668] [sharedprocess] [info] Downloaded extension: octref.vetur /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/octref.vetur-0.35.0
+[2022-07-25 00:08:22.893] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.14
+[2022-07-25 00:08:22.895] [sharedprocess] [info] Extracting completed. formulahendry.auto-close-tag
+[2022-07-25 00:08:22.896] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-close-tag
+[2022-07-25 00:08:25.175] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.2eaa1012-6bb7-41ab-9be2-bc93ba394567: octref.vetur
+[2022-07-25 00:08:25.242] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/octref.vetur-0.35.0
+[2022-07-25 00:08:25.243] [sharedprocess] [info] Extracting completed. octref.vetur
+[2022-07-25 00:08:25.245] [sharedprocess] [info] Extension installed successfully: octref.vetur
+[2022-07-25 00:08:31.586] [sharedprocess] [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+[2022-07-25 00:08:31.654] [sharedprocess] [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+[2022-07-25 00:08:35.073] [sharedprocess] [info] Downloaded extension: llvm-vs-code-extensions.vscode-clangd /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/llvm-vs-code-extensions.vscode-clangd-0.1.21
+[2022-07-25 00:08:35.099] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.3c37305e-a0e5-45e9-ac3b-a85dfbe3f4ab: llvm-vs-code-extensions.vscode-clangd
+[2022-07-25 00:08:35.163] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.21
+[2022-07-25 00:08:35.164] [sharedprocess] [info] Extracting completed. llvm-vs-code-extensions.vscode-clangd
+[2022-07-25 00:08:35.165] [sharedprocess] [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+[2022-07-25 00:08:35.966] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-07-25 00:08:36.030] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-07-25 00:08:37.377] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-07-25 00:08:37.926] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.f5c0d7c2-fd8d-4ab2-8240-72e4f748ee82: ritwickdey.liveserver
+[2022-07-25 00:08:38.196] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/ritwickdey.liveserver-5.7.5
+[2022-07-25 00:08:38.200] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-07-25 00:08:38.203] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-07-25 00:08:48.796] [sharedprocess] [info] Getting Manifest... matt-rudge.auto-open-preview-panel
+[2022-07-25 00:08:48.896] [sharedprocess] [info] Installing extension: matt-rudge.auto-open-preview-panel
+[2022-07-25 00:08:50.638] [sharedprocess] [info] Getting Manifest... formulahendry.code-runner
+[2022-07-25 00:08:50.739] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2022-07-25 00:08:52.611] [sharedprocess] [info] Downloaded extension: matt-rudge.auto-open-preview-panel /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/matt-rudge.auto-open-preview-panel-0.0.6
+[2022-07-25 00:08:52.828] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.code-runner-0.11.8
+[2022-07-25 00:08:52.950] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.394fe932-ea1b-452a-b51d-449266aac082: formulahendry.code-runner
+[2022-07-25 00:08:53.013] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/formulahendry.code-runner-0.11.8
+[2022-07-25 00:08:53.016] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2022-07-25 00:08:53.018] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner
+[2022-07-25 00:08:54.054] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.7cee9567-873c-4508-95de-16157d74e6be: matt-rudge.auto-open-preview-panel
+[2022-07-25 00:08:54.530] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/matt-rudge.auto-open-preview-panel-0.0.6
+[2022-07-25 00:08:54.532] [sharedprocess] [info] Extracting completed. matt-rudge.auto-open-preview-panel
+[2022-07-25 00:08:54.533] [sharedprocess] [info] Extension installed successfully: matt-rudge.auto-open-preview-panel
+[2022-07-25 00:08:56.181] [sharedprocess] [info] Getting Manifest... dart-code.dart-code
+[2022-07-25 00:08:56.287] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2022-07-25 00:09:03.303] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/dart-code.dart-code-3.44.0
+[2022-07-25 00:09:08.057] [sharedprocess] [info] Getting Manifest... dart-code.flutter
+[2022-07-25 00:09:08.153] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2022-07-25 00:09:08.666] [sharedprocess] [info] Getting Manifest... dart-code.dart-code
+[2022-07-25 00:09:09.015] [sharedprocess] [info] Extension is already requested to install dart-code.dart-code
+[2022-07-25 00:09:09.902] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/s0fa/.config/Code - OSS/CachedExtensionVSIXs/dart-code.flutter-3.44.0
+[2022-07-25 00:09:09.914] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.f22af1cf-6d45-49e3-aa4d-f41f712d3b1a: dart-code.flutter
+[2022-07-25 00:09:09.989] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/dart-code.flutter-3.44.0
+[2022-07-25 00:09:09.991] [sharedprocess] [info] Extracting completed. dart-code.flutter
+[2022-07-25 00:09:09.992] [sharedprocess] [info] Extension installed successfully: dart-code.flutter
+[2022-07-25 00:09:13.216] [sharedprocess] [info] Extracted extension to /home/s0fa/.vscode-oss/extensions/.06d432f8-f173-4c53-9147-da8e1b46302e: dart-code.dart-code
+[2022-07-25 00:09:14.688] [sharedprocess] [info] Renamed to /home/s0fa/.vscode-oss/extensions/dart-code.dart-code-3.44.0
+[2022-07-25 00:09:14.865] [sharedprocess] [info] Extracting completed. dart-code.dart-code
+[2022-07-25 00:09:14.866] [sharedprocess] [info] Extension installed successfully: dart-code.dart-code
